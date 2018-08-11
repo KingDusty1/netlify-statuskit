@@ -13,14 +13,14 @@ date = {{ .Date }}
 # - partial-outage
 # - major-outage
 #
-severity = "degraded-performance"
+severity = "under-maintenance"
 
 # affectedsystems: is a list of systems affected
 # by the incident.
 # Example:
 # affectedsystems = ["API", "CDN"]
 #
-affectedsystems = ["API", "CDN"]
+affectedsystems = ["Webserver", "API"]
 
 # resolved: marks an incident as resolved.
 # It can be either true or false.
