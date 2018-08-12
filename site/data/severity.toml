@@ -1,5 +1,5 @@
 [descriptions]
-  ok = "Operational"
+  ok = "Up and Running"
   under-maintenance = "Under Maintenance"
   down = "Down"
   partial-outage = "Partial outage"
