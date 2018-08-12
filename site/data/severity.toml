@@ -1,13 +1,13 @@
 [descriptions]
-  ok = "Up and Running"
+  ok = "Down"
   under-maintenance = "Under Maintenance"
   down = "Down"
   partial-outage = "Partial outage"
   major-outage = "Major outage"
 
 [alerts]
-  ok = "ok"
+  ok = "danger"
   under-maintenance = "warning"
-  down = "warning"
+  down = "danger"
   partial-outage = "warning"
   major-outage = "danger"
